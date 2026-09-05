@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saugatshrestha239-lgtm.github.io/Saugat____Store/sitemap.xml
